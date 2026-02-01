@@ -1,0 +1,15 @@
+abcprograming is a head ache in cAppending this line.
+my second file is dest.txt
+
+ and now i am using fprintf to write in my file
+ again Appending this line.
+ 
+  ABCPROGRAMING IS A HEAD ACHE IN CAPPENDING THIS LINE.
+
+ AGAIN APPENDING THIS LINE.
+ABCPROGRAMING IS A HEAD ACHE IN CAPPENDING THIS LINE.
+
+ AGAIN APPENDING THIS LINE.
+ABCPROGRAMING IS A HEAD ACHE IN CAPPENDING THIS LINE.
+
+ AGAIN APPENDING THIS LINE.
